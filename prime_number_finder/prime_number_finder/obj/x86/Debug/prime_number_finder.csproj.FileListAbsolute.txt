@@ -1,0 +1,6 @@
+/home/andrew/Projects/prime_number_finder/prime_number_finder/bin/Debug/prime_number_finder.exe
+/home/andrew/Projects/prime_number_finder/prime_number_finder/bin/Debug/prime_number_finder.pdb
+/home/andrew/Projects/prime_number_finder/prime_number_finder/obj/x86/Debug/prime_number_finder.csprojAssemblyReference.cache
+/home/andrew/Projects/prime_number_finder/prime_number_finder/obj/x86/Debug/prime_number_finder.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/prime_number_finder/prime_number_finder/obj/x86/Debug/prime_number_finder.exe
+/home/andrew/Projects/prime_number_finder/prime_number_finder/obj/x86/Debug/prime_number_finder.pdb
